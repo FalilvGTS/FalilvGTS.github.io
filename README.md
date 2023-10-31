@@ -1,2 +1,2 @@
-# FalilvGTS.github.io
+# ECOEATS - IHC
 Trabajo Final de IHC Grupo 4
